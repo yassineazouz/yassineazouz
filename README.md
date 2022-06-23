@@ -25,7 +25,6 @@
 <img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
 <img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
 <img width="40" height="40" alt="python" src="./icons/python-original.svg">
----
 
 <table width="100%">
 <tr>
