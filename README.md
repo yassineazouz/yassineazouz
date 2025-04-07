@@ -76,11 +76,7 @@ _Merci pour ta visite ! Hâte de collaborer sur des projets innovants 🚀_
 <img width="40" height="40" alt="python" src="./icons/python-original.svg">
 
 <table width="100%">
-<tr>
-<td width="60%">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassineazouz&show_icons=true&count_private=true alt="yassineazouz" /></p>
-</td>
-<td width="40%">
+<td width="100%">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineazouz&layout=compact" alt="yassineazouz" /></p>
 </td>
 </tr>
