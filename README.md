@@ -1,8 +1,57 @@
-- 👋 Hi, I’m @yassineazouz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Salut, moi c'est Yassine Azzouz 👋
+
+🎓 Actuellement étudiant en cycle ingénieur en informatique à **l’Université Paris-Saclay (ISTY)**, après avoir obtenu ma **licence en informatique** à la **Faculté des Sciences de Tunis**.
+
+🔍 Je suis à la recherche d’une **alternance en développement web d’une durée de 2 ans**, à partir de **septembre 2025**.
+
+---
+
+## 💻 Stack Technique
+
+- **Frontend :** React.js, TypeScript, HTML, CSS, JavaScript  
+- **Backend :** Node.js, Express.js, Java (Spring Boot)  
+- **Bases de données :** PostgreSQL, MongoDB, Firebase Realtime DB  
+- **Outils & Frameworks :** Sequelize, Mongoose, Docker, GitLab, Jira, Swagger  
+- **IoT & Embarqué :** ESP32, Arduino (C), HiveMQ  
+
+---
+
+## 🚀 Projets phares
+
+- **🧠 Inventory Manager** : Application de gestion d’inventaire en temps réel (React, Node.js, PostgreSQL).  
+- **📋 To-Do List** : Gestionnaire de tâches quotidiennes (React, Spring Boot).  
+- **⏱️ Minuteur Automatique** : Minuteur programmable basé sur Arduino.  
+- **🔢 Afficheur 7 Segments** : Afficheur numérique contrôlé par microcontrôleur (C modulaire).  
+- **🌐 Portfolio personnel** : Site web mettant en valeur mes compétences et projets.
+
+---
+
+## 🧑‍💼 Expériences
+
+### 🔌 Développeur IoT – Stage chez ETS (2024)
+- Développement d’un système intelligent pour une machine de soudure.
+- Intégration d’une interface web pour le contrôle à distance.
+
+### 🌐 Développeur Full Stack – Stage chez Dawaya (2022)
+- Implémentation d’une fonctionnalité de suivi en temps réel via Google Maps API et Firebase.
+
+---
+
+## 🌍 Langues
+
+- 🇫🇷 Français : Bilingue  
+- 🇬🇧 Anglais : Avancé  
+- 🇹🇳 Arabe : Courant
+
+---
+
+📫 **Contact**  
+📧 yassine.azzouz.dev@gmail.com  
+
+---
+
+_Merci pour ta visite ! Hâte de collaborer sur des projets innovants 🚀_
+
 
 ## Languages and Tools :
 
