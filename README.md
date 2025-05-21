@@ -2,7 +2,7 @@
 
 🎓 Actuellement étudiant en cycle ingénieur en informatique à **l’Université Paris-Saclay (ISTY)**, après avoir obtenu ma **licence en informatique** à la **Faculté des Sciences de Tunis**.
 
-🔍 Je suis à la recherche d’une **alternance en développement web d’une durée de 2 ans**, à partir de **septembre 2025**.
+🔍 Je suis à la recherche d’une **alternance d’une durée de 2 ans**, à partir de **septembre 2025**.
 
 ---
 
