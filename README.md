@@ -6,13 +6,20 @@
 
 ---
 
-## 💻 Stack Technique
+## 💻 Technical Skills
+
 
 - **Frontend :** React.js, TypeScript, HTML, CSS, JavaScript  
 - **Backend :** Node.js, Express.js, Java (Spring Boot)  
 - **Bases de données :** PostgreSQL, MongoDB, Firebase Realtime DB  
 - **Outils & Frameworks :** Sequelize, Mongoose, Docker, GitLab, Jira, Swagger  
-- **IoT & Embarqué :** ESP32, Arduino (C), HiveMQ  
+- **IoT & Embarqué :** ESP32, Arduino (C), HiveMQ
+- **Systèmes :** Windows, Linux
+- **Réseau :** TCP/IP, DNS, VLAN, VPN, segmentation réseau, Tiering Model
+- **Cybersécurité :** ANSSI, OWASP Top 10, Wireshark, SentinelOne, MFA, Azure, SIEM, SOC
+- **Scripts & DevOps :** Python, Bash, CLI Linux
+
+
 
 ---
 
