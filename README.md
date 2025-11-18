@@ -1,6 +1,6 @@
 # Salut, moi c'est Yassine Azzouz 👋
 
-🎓 Actuellement étudiant en cycle ingénieur en informatique à **l’Université Paris-Saclay**, après avoir obtenu ma **licence en informatique** à la **Faculté des Sciences de Tunis**.
+🎓 Actuellement étudiant en cycle ingénieur en informatique à **l’Université Paris-Saclay**.
 
 
 
@@ -44,13 +44,6 @@
 
 ---
 
-## 🌍 Langues
-
-- 🇫🇷 Français : Bilingue  
-- 🇬🇧 Anglais : Avancé  
-- 🇹🇳 Arabe : Courant
-
----
 
 📫 **Contact**  
 📧 yassine.azzouz.dev@gmail.com  
