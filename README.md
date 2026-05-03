@@ -1,56 +1,133 @@
-# Salut, moi c'est Yassine Azzouz 👋
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    YASSINE AZZOUZ — README                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-🎓 Actuellement étudiant en cycle ingénieur en informatique à **l’Université Paris-Saclay**.
+<div align="center">
 
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04010e,50:a855f7,100:06b6d4&height=220&section=header&text=Yassine%20Azzouz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%E2%80%A2%20IoT%20%E2%80%A2%20Cybersecurity&descAlignY=58&descColor=c4b5fd" width="100%"/>
 
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1000&color=a855f7&center=true&vCenter=true&width=650&lines=Engineering+student+%40+Paris-Saclay+%F0%9F%8E%93;Full+Stack+Developer+%E2%80%94+React+%2B+Node.js+%2B+Spring+Boot;IoT+%26+Embedded+Systems+%E2%80%94+ESP32+%2B+Arduino;DevSecOps+%26+Cybersecurity+Enthusiast+%F0%9F%94%90" alt="Typing SVG"/>
+</a>
 
----
+<br/><br/>
 
-## 💻 Technical Skills
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23a855f7.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-azzouz)
+[![Gmail](https://img.shields.io/badge/Gmail-%23ec4899.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine.azzouz.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2306b6d4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yassineazouz.dev)
 
+<br/>
 
-- **Frontend :** React.js, TypeScript, HTML, CSS, JavaScript  
-- **Backend :** Node.js, Express.js, Java (Spring Boot)  
-- **Bases de données :** PostgreSQL, MongoDB, Firebase Realtime DB  
-- **Outils & Frameworks :** Sequelize, Mongoose, Docker, GitLab, Jira, Swagger  
-- **IoT & Embarqué :** ESP32, Arduino (C), HiveMQ
-- **Systèmes :** Windows, Linux
-- **Réseau :** TCP/IP, DNS, VLAN, VPN, segmentation réseau, Tiering Model
-- **Cybersécurité :** ANSSI, OWASP Top 10, Wireshark, SentinelOne, MFA, Azure, SIEM, SOC
-- **Scripts & DevOps :** Python, Bash, CLI Linux
+![Profile Views](https://komarev.com/ghpvc/?username=yassineazouz&color=a855f7&style=flat-square&label=Profile+Views)
 
+</div>
 
-
----
-
-## 🚀 Projets phares
-
-- **🧠 Inventory Manager** : Application de gestion d’inventaire en temps réel (React, Node.js, PostgreSQL).  
-- **📋 To-Do List** : Gestionnaire de tâches quotidiennes (React, Spring Boot).  
-- **⏱️ Minuteur Automatique** : Minuteur programmable basé sur Arduino.  
-- **🔢 Afficheur 7 Segments** : Afficheur numérique contrôlé par microcontrôleur (C modulaire).  
-- **🌐 Portfolio personnel** : Site web mettant en valeur mes compétences et projets.
+<br/>
 
 ---
 
-## 🧑‍💼 Expériences
+## ✦ About Me
 
-### 🔌 Développeur IoT – Stage chez ETS (2024)
-- Développement d’un système intelligent pour une machine de soudure.
-- Intégration d’une interface web pour le contrôle à distance.
+```ts
+const yassine = {
+  education : "Cycle ingénieur informatique — Université Paris-Saclay",
+  focus     : ["Full Stack", "IoT & Embedded", "Cybersecurity"],
+  stack     : ["React", "Node.js", "Spring Boot", "PostgreSQL", "ESP32"],
+  looking   : "Alternance / Stage — DevSecOps · Full Stack · IoT",
+  contact   : "yassine.azzouz.dev@gmail.com",
+};
+```
 
-### 🌐 Développeur Full Stack – Stage chez Dawaya (2022)
-- Implémentation d’une fonctionnalité de suivi en temps réel via Google Maps API et Firebase.
+> 💡 Ce qui me distingue : la combinaison **Full Stack + Embarqué + Sécurité** dans un seul profil.
 
 ---
 
+## 🛠 Tech Stack
 
-📫 **Contact**  
-📧 yassine.azzouz.dev@gmail.com  
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2306b6d4.svg?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23a855f7.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23f59e0b.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23ec4899.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%2306b6d4.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-%23ec4899.svg?style=for-the-badge&logo=sass&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23a855f7.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%231a1333.svg?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ec4899.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%2306b6d4.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23a855f7.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2306b6d4.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23f59e0b.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔌 IoT & Embedded
+![Arduino](https://img.shields.io/badge/Arduino-%2306b6d4.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23ec4899.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![C](https://img.shields.io/badge/C-%23a855f7.svg?style=for-the-badge&logo=c&logoColor=white)
+![HiveMQ](https://img.shields.io/badge/HiveMQ_MQTT-%23f59e0b.svg?style=for-the-badge&logo=mqtt&logoColor=black)
+
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-%2306b6d4.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23ec4899.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23f59e0b.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%23a855f7.svg?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%231a1333.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🔐 Cybersecurity & Network
+![Azure](https://img.shields.io/badge/Azure-%2306b6d4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%23a855f7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+
+```
+OWASP Top 10  ·  ANSSI  ·  SIEM  ·  SOC  ·  SentinelOne  ·  MFA
+TCP/IP  ·  DNS  ·  VLAN  ·  VPN  ·  Tiering Model  ·  Segmentation réseau
+```
 
 ---
 
-_Merci pour ta visite ! Hâte de collaborer sur des projets innovants 🚀_
+## 🚀 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+
+| &nbsp; | Project | Stack | Highlights |
+|--------|---------|-------|------------|
+| 🧠 | **Inventory Manager** | React · Node.js · PostgreSQL · Sequelize | Real-time stock management, REST API |
+| 📋 | **To-Do List App** | React · Spring Boot · MongoDB | Full CRUD, authentication, responsive UI |
+| ⏱️ | **Automatic Timer** | Arduino · C | Programmable embedded timer |
+| 🔢 | **7-Segment Display** | C (modular) · Microcontroller | Numerical display controller |
+| 🌐 | **Personal Portfolio** | React · TypeScript · CSS | Showcase of projects & skills |
+
+</div>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="120" align="center"><b>2024</b><br/>🔌</td>
+<td>
+
+**IoT Developer Intern — ETS**
+- Designed an intelligent monitoring system for an industrial welding machine
+- Built a web interface for real-time remote control and diagnostics
+- Integrated embedded sensors (ESP32) with a full-stack web dashboard
+
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><b>2022</b><br/>🌐</td>
+<td>
+
+**Full Stack Developer Intern — Dawaya**
+- Implemented real-time geolocation tracking using **Google Maps API** and **Firebase Realtime DB**
+- Developed features on a healthcare web platform (React + Node.js)
+
+</td>
+</tr>
+</table>
