@@ -1,21 +1,13 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    YASSINE AZZOUZ — README                 -->
-<!--                  theme: neon dev terminal                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<!-- ░░ HERO ░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04010e,40:a855f7,100:06b6d4&height=210&section=header&text=Yassine%20Azzouz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=%7B%20Full%20Stack%20Developer%20%7D&descAlignY=54&descSize=20&descColor=c4b5fd" width="100%"/>
 
-<!-- ░░ TYPING ░░ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=const+dev+%3D+Full+Stack+Developer;Building+web+apps+from+front+to+back;React+%2B+Node.js+%2B+Spring+Boot;Open+to+alternance+%26+internship+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=const+dev+%3D+Full+Stack+Developer;Building+web+apps+from+front+to+back;React+%2B+Node.js+%2B+Spring+Boot;Clean%2C+scalable+%26+user-friendly+code+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- ░░ SOCIAL ░░ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23a855f7.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-azzouz)
 [![Gmail](https://img.shields.io/badge/Email-%23ec4899.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassine.azzouz.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2306b6d4.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yassineazouz.dev)
@@ -31,16 +23,15 @@
 ```ts
 const yassine = {
   role      : "Full Stack Developer",
-  education : "Ingénierie informatique — Université Paris-Saclay",
+  education : "Computer Engineering — Université Paris-Saclay",
   frontend  : ["React", "TypeScript", "SASS"],
   backend   : ["Node.js", "Express", "Spring Boot"],
   databases : ["PostgreSQL", "MongoDB", "Firebase"],
-  currently : "À la recherche d'une alternance / stage 🎯",
   contact   : "yassine.azzouz.dev@gmail.com",
 };
 ```
 
-> **Ce qui me distingue —** concevoir des applications web **de bout en bout**, du front React à l'API backend, avec un vrai souci de la qualité du code et de l'expérience utilisateur.
+> **What sets me apart —** building **end-to-end** web applications, from the React front-end to the backend API, with real care for code quality and user experience.
 
 <br/>
 
@@ -117,13 +108,22 @@ const yassine = {
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassineazouz/yassineazouz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassineazouz/yassineazouz/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/yassineazouz/yassineazouz/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 <br/>
 
 <div align="center">
 
-<!-- ░░ FOOTER ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,60:a855f7,100:04010e&height=120&section=footer&reversal=false"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,60:a855f7,100:04010e&height=120&section=footer"/>
 
-<sub>💬 Ouvert aux opportunités en alternance / stage — Full Stack Development</sub>
+<sub>💬 Let's build something — yassine.azzouz.dev@gmail.com</sub>
 
 </div>
