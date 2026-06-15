@@ -102,9 +102,14 @@ const yassine = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yassineazouz&show_icons=true&hide=stars,issues,contribs&hide_rank=true&hide_border=true&bg_color=04010e&title_color=a855f7&icon_color=06b6d4&text_color=c4b5fd" />
+<img src="https://github-readme-stats.vercel.app/api?username=yassineazouz&show_icons=true&hide=stars,issues,contribs&hide_rank=true&hide_border=true&bg_color=04010e&title_color=a855f7&icon_color=06b6d4&text_color=c4b5fd" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineazouz&layout=compact&hide_border=true&bg_color=04010e&title_color=a855f7&text_color=c4b5fd&langs_count=8" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yassineazouz&background=04010e&border=a855f7&stroke=a855f7&ring=06b6d4&fire=ec4899&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=c4b5fd&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassineazouz&bg_color=04010e&color=c4b5fd&line=a855f7&point=06b6d4&area_color=a855f7&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=yassineazouz&theme=algolia&no-frame=true&column=7&margin-w=8" width="100%" />
 
 </div>
 
