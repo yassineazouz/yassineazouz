@@ -110,7 +110,7 @@ const yassine = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yassineazouz&show_icons=true&hide=stars,issues,contribs&hide_rank=true&hide_border=true&bg_color=04010e&title_color=a855f7&icon_color=06b6d4&text_color=c4b5fd" />
+<img src="https://github-readme-stats.vercel.app/api?username=yassineazouz&show_icons=true&commits_year=2026&hide=stars,issues,contribs&hide_rank=true&hide_border=true&bg_color=04010e&title_color=a855f7&icon_color=06b6d4&text_color=c4b5fd" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yassineazouz&bg_color=04010e&color=c4b5fd&line=a855f7&point=06b6d4&area_color=a855f7&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
 
